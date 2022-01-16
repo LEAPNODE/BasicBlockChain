@@ -1,4 +1,4 @@
-package com.leapnode;
+package com.leapnode.NodeException;
 
 /**
  * Basic Exception class to handle specific exceptions within this project.
